@@ -1,2 +1,3 @@
 # Restaurant-Profitability-And-Menu-Engineering-Optimization
-End-to-end Power BI project analyzing restaurant profitability, menu engineering, pricing optimization, and contribution margin to support business decision making.
+An end-to-end data analytics project that analyzes restaurant sales, menu performance, pricing strategy, and profitability to provide actionable recommendations for improving financial performance.
+**Tools Used:** Power BI • DAX • SQL • Power Query • Excel
