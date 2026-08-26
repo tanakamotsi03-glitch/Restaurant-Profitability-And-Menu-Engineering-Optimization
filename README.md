@@ -5,7 +5,7 @@ An end-to-end data analytics project that analyzes restaurant sales and cost dat
 
 **Tools Used:** Power BI • DAX • SQL • Power Query • Excel
 
----
+</>
 
 ## **Business Problem** ##
 
@@ -21,3 +21,15 @@ This project investigates the financial performance of a restaurant by identifyi
 - Menu engineering classifications
 
 The goal is to help management make data-driven decisions that improve profitability.
+
+---
+
+## **Objectives** ##
+
+- Analyze restaurant revenue and profitability.
+- Calculate contribution margin for every menu item.
+- Evaluate the impact of discounts.
+- Classify menu items using Menu Engineering.
+- Identify pricing opportunities.
+- Compare financial performance across locations.
+- Develop executive dashboards for decision making.
