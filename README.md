@@ -5,7 +5,7 @@ An end-to-end data analytics project that analyzes restaurant sales and cost dat
 
 **Tools Used:** Power BI • DAX • SQL • Power Query • Excel
 
-</>
+---
 
 ## **Business Problem** ##
 
@@ -33,3 +33,32 @@ The goal is to help management make data-driven decisions that improve profitabi
 - Identify pricing opportunities.
 - Compare financial performance across locations.
 - Develop executive dashboards for decision making.
+
+---
+
+## **Dataset** ##
+
+The analysis uses transactional restaurant data consisting of:
+
+- Sales Transactions
+- Menu Items
+- Food Costs
+- Operating Expenses
+- Discounts
+- Restaurant Locations
+- Calendar Data
+
+The data model was structured using a star schema to support efficient reporting and DAX calculations.
+
+---
+
+## **Tools & Technologies** ##
+
+| Tool        | Purpose                              |
+| ----------- | ------------------------------------ |
+| SQL         | Data extraction and business queries |
+| Power Query | Data cleaning and transformation     |
+| Power BI    | Dashboard development                |
+| DAX         | Financial calculations and KPIs      |
+| Excel       | Initial validation and data checks   |
+
