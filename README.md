@@ -10,9 +10,7 @@
 
 ### End-to-End Data Analytics Project
 
-Using **SQL • Power BI • DAX • Power Query • Excel**
-
----
+Tools Used **SQL • Power BI • DAX • Power Query • Excel**
 
 </div>
 
