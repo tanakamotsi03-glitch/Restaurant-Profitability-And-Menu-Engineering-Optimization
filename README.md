@@ -90,6 +90,33 @@ Business Insights
       ↓
 Recommendations
 
+## Data Cleaning
+- Removed duplicates
+- Corrected data types
+- Handled missing costs
+- Standardized categories
+- Data Modeling
+
+Built relationships between:
+
+Sales
+Menu
+Operating Expenses
+Calendar
+Financial Measures
+
+Created measures for:
+
+Revenue
+Gross Profit
+Net Profit
+Contribution Margin
+Margin %
+Average Order Value
+Dashboard Development
+
+Designed interactive dashboards for executives
+
 ---
 
 ## **Dashboard Overview** ##
