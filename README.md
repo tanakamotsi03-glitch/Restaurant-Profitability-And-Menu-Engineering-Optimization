@@ -207,12 +207,12 @@ The recommendations support:
 ## **Repository Structure** ##
 
 Restaurant-Profitability-Menu-Engineering/
-│
-├── README.md
-├── SQL/
-├── Dashboard_Screenshots/
-├── Dataset/
-├── Documentation/
+│<br/>
+├── README.md<br/>
+├── SQL/<br/>
+├── Dashboard_Screenshots/<br/>
+├── Dataset/<br/>
+├── Documentation/<br/>
 └── Restaurant_Profitability.pbix
 
 ---
