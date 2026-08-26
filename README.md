@@ -96,7 +96,7 @@ Provides a high-level summary of revenue, gross profit, net profit, contribution
 
 ### Menu Engineering
 
-![Menu Engineering](Dashboard_Screenshots/Menu_Engineering.png)
+![Menu Engineering](Dashboard_Screenshots/02_Menu_Engineering_screenshot.png)
 
 Classifies menu items into:
 
@@ -111,15 +111,23 @@ to support pricing and promotional decisions.
 
 ### Pricing Optimization
 
-![Pricing](Dashboard_Screenshots/Pricing_Optimization.png)
+![Pricing](Dashboard_Screenshots/03_Pricing_Optimization_screenshot.png)
 
 Analyzes pricing strategies and estimates the impact of potential price increases on contribution margin and profitability.
 
 ---
 
+### Discount Analysis
+
+![Discounts](Dashboard_Screenshots/04_Discount_Analysis_screenshot.png)
+
+Identifies the discount impact.
+
+---
+
 ### Recommendations
 
-![Recommendations](Dashboard_Screenshots/Recommendations.png)
+![Recommendations](Dashboard_Screenshots/05_Recommendations_screenshot.png)
 
 Summarizes strategic recommendations based on the analysis.
 
