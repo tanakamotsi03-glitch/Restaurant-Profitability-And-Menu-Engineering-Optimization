@@ -75,22 +75,22 @@ A star schema was implemented to improve reporting performance and simplify rela
 ## **Project Workflow** ##
 
 Raw Data
-      ↓
+      ↓<br/>
 Data Cleaning
-      ↓
+      ↓<br/>
 SQL Analysis
-      ↓
+      ↓<br/>
 Power BI Data Model
-      ↓
+      ↓<br/>
 DAX Measures
-      ↓
+      ↓<br/>
 Interactive Dashboards
-      ↓
+      ↓<br/>
 Business Insights
-      ↓
+      ↓<br/>
 Recommendations
 
-## Data Cleaning
+## SQL Data Cleaning
 - Removed duplicates
 - Corrected data types
 - Handled missing costs
