@@ -11,11 +11,11 @@ Many restaurants generate strong sales revenue but still struggle to achieve hea
 
 This project investigates the financial performance of a restaurant by identifying:
 
-High and low performing menu items
-Impact of discounts on profitability
-Contribution margin by product
-Location profitability
-Pricing opportunities
+High and low performing menu items<br>
+Impact of discounts on profitability<br>
+Contribution margin by product<br>
+Location profitability<br>
+Pricing opportunities<br>
 Menu engineering classifications
 
 The goal is to help management make data-driven decisions that improve profitability.
