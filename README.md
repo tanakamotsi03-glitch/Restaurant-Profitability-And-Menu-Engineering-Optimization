@@ -56,6 +56,8 @@ Below is the star schema used to support the analysis.
 
 ![Data Model](Dataset/data_model.png)
 
+A star schema was implemented to improve reporting performance and simplify relationships between the Sales fact table and supporting dimension tables including Menu, Calendar, and Operating Expenses.
+
 ---
 
 ## **Tools & Technologies** ##
