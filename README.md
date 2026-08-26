@@ -56,7 +56,7 @@ The data model was structured using a star schema to support efficient reporting
 
 | Tool        | Purpose                              |
 | ----------- | ------------------------------------ |
-| SQL         | Data extraction and business queries |
+| SQL         | Data extraction, Cleaning and business queries |
 | Power Query | Data cleaning and transformation     |
 | Power BI    | Dashboard development                |
 | DAX         | Financial calculations and KPIs      |
