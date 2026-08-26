@@ -1,5 +1,5 @@
 # Restaurant-Profitability-And-Menu-Engineering-Optimization
-##**Project Overview**##
+## **Project Overview** ##
 
 An end-to-end data analytics project that analyzes restaurant sales and cost data to identify factors affecting profitability. Using menu engineering principles, contribution margin analysis, and pricing optimization, the project provides actionable recommendations to improve revenue and profit.
 
@@ -7,7 +7,7 @@ An end-to-end data analytics project that analyzes restaurant sales and cost dat
 
 ---
 
-##**Business Problem**##
+## **Business Problem** ##
 
 Many restaurants generate strong sales revenue but still struggle to achieve healthy profits.
 
