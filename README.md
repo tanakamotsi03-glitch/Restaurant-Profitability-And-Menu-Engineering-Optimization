@@ -63,11 +63,11 @@ The analysis uses transactional restaurant data consisting of:
 - Restaurant Locations
 - Calendar Data
 
-The data model was structured using a star schema to support efficient reporting and DAX calculations.
+The data model was structured using a schema to support efficient reporting and DAX calculations.
 
 ## Data Model ##
 
-Below is the star schema used to support the analysis.
+Below is the schema used to support the analysis.
 
 ![Data Model](Dataset/data_model.png)
 
