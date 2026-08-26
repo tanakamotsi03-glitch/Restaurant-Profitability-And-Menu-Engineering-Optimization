@@ -131,4 +131,93 @@ Identifies the discount impact.
 
 Summarizes strategic recommendations based on the analysis.
 
+---
+
+## **KPIs** ##
+
+## Key Performance Indicators
+
+- Revenue
+- Gross Profit
+- Net Profit
+- Contribution Margin
+- Contribution Margin %
+- Average Order Value
+- Total Discounts
+- Operating Expenses
+- Profit by Location
+
+---
+
+## **KPIs** ##
+
+## Key Insights
+
+- Revenue remained strong despite declining profitability.
+- Discounts significantly reduced overall profit.
+- A small number of menu items generated the majority of contribution margin.
+- Several popular products had relatively low profitability.
+- Selected price adjustments could improve overall profit without affecting demand.
+- Contribution margin analysis provided a more accurate measure of product profitability than gross profit alone.
+
+---
+
+## **Business Recommendations** ##
+
+- Review the current discount policy.
+- Increase prices selectively on high-demand items.
+- Promote Star items to maximize profit.
+- Re-engineer Plowhorse items by reducing food costs.
+- Improve profitability monitoring using contribution margin.
+- Review underperforming menu items regularly.
+
+---
+
+## **Business Impact** ##
+
+The analysis demonstrates how restaurant management can improve financial performance by combining menu engineering, pricing optimization, and contribution margin analysis.
+
+The recommendations support:
+
+- Increased profitability
+- Better pricing decisions
+- Reduced revenue leakage
+- Improved menu strategy
+- Data-driven decision making
+
+---
+
+## **Skills Demonstrated** ##
+
+- SQL
+- Power BI
+- DAX
+- Power Query
+- Data Modeling
+- Financial Analysis
+- Menu Engineering
+- Pricing Strategy
+- Dashboard Design
+- KPI Development
+- Business Storytelling
+- Problem Solving
+
+---
+
+## **Repository Structure** ##
+
+Restaurant-Profitability-Menu-Engineering/
+│
+├── README.md
+├── SQL/
+├── Dashboard_Screenshots/
+├── Dataset/
+├── Documentation/
+└── Restaurant_Profitability.pbix
+
+---
+
+## **Contact** ##
+
+If you would like to discuss this project or connect professionally, feel free to reach out through my GitHub profile or LinkedIn.
 
