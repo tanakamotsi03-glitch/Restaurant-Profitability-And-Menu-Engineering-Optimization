@@ -14,31 +14,13 @@ Using **SQL • Power BI • DAX • Power Query • Excel**
 
 ---
 
-Optimizing restaurant profitability through menu engineering, pricing analysis, contribution margin evaluation, and executive dashboard reporting.
-
-# 📑 Table of Contents
-
-- Project Overview
-- Business Problem
-- Objectives
-- Dataset
-- Data Model
-- Project Workflow
-- Dashboard Pages
-- KPIs
-- Key Insights
-- Business Recommendations
-- Skills Demonstrated
-
 </div>
 
 ---
-# Restaurant-Profitability-And-Menu-Engineering-Optimization
+
 ## **Project Overview** ##
 
 An end-to-end data analytics project that analyzes restaurant sales and cost data to identify factors affecting profitability. Using menu engineering principles, contribution margin analysis, and pricing optimization, the project provides actionable recommendations to improve revenue and profit.
-
-**Tools Used:** Power BI • DAX • SQL • Power Query • Excel
 
 ---
 
