@@ -62,3 +62,65 @@ The data model was structured using a star schema to support efficient reporting
 | DAX         | Financial calculations and KPIs      |
 | Excel       | Initial validation and data checks   |
 
+---
+
+## **Project Workflow** ##
+
+Raw Data
+      ↓
+Data Cleaning
+      ↓
+SQL Analysis
+      ↓
+Power BI Data Model
+      ↓
+DAX Measures
+      ↓
+Interactive Dashboards
+      ↓
+Business Insights
+      ↓
+Recommendations
+
+---
+
+## **Dashboard Overview** ##
+
+### Executive Overview
+
+![Executive Overview](Dashboard_Screenshots/01_Executive_Overview_screenshot.png)
+
+Provides a high-level summary of revenue, gross profit, net profit, contribution margin, and restaurant performance.
+
+---
+
+### Menu Engineering
+
+![Menu Engineering](Dashboard_Screenshots/Menu_Engineering.png)
+
+Classifies menu items into:
+
+- ⭐ Stars
+- 🐴 Plowhorses
+- 🧩 Puzzles
+- 🐕 Dogs
+
+to support pricing and promotional decisions.
+
+---
+
+### Pricing Optimization
+
+![Pricing](Dashboard_Screenshots/Pricing_Optimization.png)
+
+Analyzes pricing strategies and estimates the impact of potential price increases on contribution margin and profitability.
+
+---
+
+### Recommendations
+
+![Recommendations](Dashboard_Screenshots/Recommendations.png)
+
+Summarizes strategic recommendations based on the analysis.
+
+
