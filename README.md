@@ -1,3 +1,18 @@
+<div align="center">
+
+# 🍽️ Restaurant Profitability & Menu Engineering Optimization
+
+### End-to-End Data Analytics Project
+
+Using **SQL • Power BI • DAX • Power Query • Excel**
+
+---
+
+Optimizing restaurant profitability through menu engineering, pricing analysis, contribution margin evaluation, and executive dashboard reporting.
+
+</div>
+
+---
 # Restaurant-Profitability-And-Menu-Engineering-Optimization
 ## **Project Overview** ##
 
@@ -252,10 +267,9 @@ The recommendations support:
 Restaurant-Profitability-Menu-Engineering/
 │<br/>
 ├── README.md<br/>
-├── SQL/<br/>
 ├── Dashboard_Screenshots/<br/>
 ├── Dataset/<br/>
-├── Documentation/<br/>
+├── SQL/<br/>
 └── Restaurant_Profitability.pbix
 
 ---
