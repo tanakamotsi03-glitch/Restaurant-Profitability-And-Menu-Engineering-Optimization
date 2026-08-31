@@ -276,5 +276,5 @@ Restaurant-Profitability-Menu-Engineering/
 
 ## **Contact** ##
 
-If you would like to discuss this project or connect professionally, feel free to reach out through my [GitHub profile](https://github.com/tanakamotsi03-glitch) or [LinkedIn](https://github.com/tanakamotsi03-glitch).
+If you would like to discuss this project or connect professionally, feel free to reach out through my [GitHub profile](https://github.com/tanakamotsi03-glitch) or [LinkedIn](https://www.linkedin.com/in/tanaka-motsi-758139417/).
 
